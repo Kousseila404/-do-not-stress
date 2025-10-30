@@ -85,4 +85,4 @@ L’ensemble du système est **automatisé avec des scripts Bash** et accompagn�
 ## 🚀 Auteur
 
 **Kousseila AZNI**  
-🔗 [LinkedIn](https://www.linkedin.com/in/kousseila-azni) | [Portfolio WebCatalyste](https://webcatalyste.fr)
+🔗 [LinkedIn](https://www.linkedin.com/in/aznikousseila/) | [Portfolio WebCatalyste](https://webcatalyste.fr)
